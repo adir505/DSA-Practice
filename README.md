@@ -1,2 +1,1 @@
-# DSA-Practice
-Problem solutions for various DSA questions.
+# My DSA Practice Repo
